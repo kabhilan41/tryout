@@ -7,4 +7,8 @@ Checking 4
 
 =======
 Checking 4a
+<<<<<<< HEAD
 >>>>>>> 590436f (change only on brancheck 4a)
+=======
+Checking 5
+>>>>>>> 6981147 (new file nd change in 1)
