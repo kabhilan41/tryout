@@ -1,18 +1,5 @@
 Checking 1
 Checking 2
 Checking 3
-<<<<<<< HEAD
-<<<<<<< HEAD
-Checking 4
 
-
-=======
-Checking 4a
-<<<<<<< HEAD
->>>>>>> 590436f (change only on brancheck 4a)
-=======
-Checking 5
->>>>>>> 6981147 (new file nd change in 1)
-=======
-Checking 4a
->>>>>>> 590436f595406abd15679119e04f5f173c16190a
+asdasfafsgsgfafafafaf
